@@ -210,6 +210,11 @@ n9.onmousedown = function () {
   display.innerHTML = tempTxt + "9";
   tempTxt = tempTxt + "9";
 };
+let n0 = document.getElementById("0");
+n0.onmousedown = function () {
+  display.innerHTML = tempTxt + "0";
+  tempTxt = tempTxt + "0";
+};
 
 // Space
 let spacebar = document.getElementById("spacebar");

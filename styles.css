@@ -30,6 +30,7 @@ body {
   display:flex;
   align-items: center;
   }
+
   .keyboard {
     border-spacing: 1em .5em; 
     left: 10%;
@@ -58,7 +59,8 @@ body {
     font-family: Palatino;
     color: saddleBrown;
     padding: 2rem;
-    margin-right:0.5rem;
+    /* margin-right:0.5rem;
+    margin-left:0.5rem; */
     text-align: center;
     width: 33.3333%;
     border: 1px;
